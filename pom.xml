@@ -8,7 +8,7 @@
 		<version>3.3.5</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.debuggeandoideas</groupId>
+	<groupId>com.juandavyc</groupId>
 	<artifactId>spring-boot-demo</artifactId>
 	<version>1.0.0</version>
 	<name>spring-boot-demo</name>
