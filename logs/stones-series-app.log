@@ -1,0 +1,118 @@
+2025-01-21T22:16:07.812-05:00  INFO 16112 --- [spring-boot-demo] [restartedMain] c.j.s.SpringBootDemoApplication          : Starting SpringBootDemoApplication using Java 21.0.5 with PID 16112 (C:\Users\Asus\Desktop\spring-2024\spring-boot-demo\target\classes started by Asus in C:\Users\Asus\Desktop\spring-2024\spring-boot-demo)
+2025-01-21T22:16:07.815-05:00  INFO 16112 --- [spring-boot-demo] [restartedMain] c.j.s.SpringBootDemoApplication          : The following 1 profile is active: "series"
+2025-01-21T22:16:08.793-05:00  INFO 16112 --- [spring-boot-demo] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-01-21T22:16:08.793-05:00  INFO 16112 --- [spring-boot-demo] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.31]
+2025-01-21T22:16:08.881-05:00  INFO 16112 --- [spring-boot-demo] [restartedMain] o.a.c.c.C.[.[localhost].[/serie-stones]  : Initializing Spring embedded WebApplicationContext
+2025-01-21T22:16:09.233-05:00  INFO 16112 --- [spring-boot-demo] [restartedMain] c.j.s.SpringBootDemoApplication          : Started SpringBootDemoApplication in 1.875 seconds (process running for 2.548)
+2025-01-21T22:16:45.453-05:00  INFO 6352 --- [spring-boot-demo] [restartedMain] c.j.s.SpringBootDemoApplication          : Starting SpringBootDemoApplication using Java 21.0.5 with PID 6352 (C:\Users\Asus\Desktop\spring-2024\spring-boot-demo\target\classes started by Asus in C:\Users\Asus\Desktop\spring-2024\spring-boot-demo)
+2025-01-21T22:16:45.455-05:00  INFO 6352 --- [spring-boot-demo] [restartedMain] c.j.s.SpringBootDemoApplication          : The following 1 profile is active: "series"
+2025-01-21T22:16:46.478-05:00  INFO 6352 --- [spring-boot-demo] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-01-21T22:16:46.478-05:00  INFO 6352 --- [spring-boot-demo] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.31]
+2025-01-21T22:16:46.545-05:00  INFO 6352 --- [spring-boot-demo] [restartedMain] o.a.c.c.C.[.[.[/series-stones]           : Initializing Spring embedded WebApplicationContext
+2025-01-21T22:16:47.015-05:00  INFO 6352 --- [spring-boot-demo] [restartedMain] c.j.s.SpringBootDemoApplication          : Started SpringBootDemoApplication in 1.972 seconds (process running for 2.597)
+2025-01-21T22:18:42.990-05:00  INFO 6352 --- [spring-boot-demo] [restartedMain] c.j.s.SpringBootDemoApplication          : Starting SpringBootDemoApplication using Java 21.0.5 with PID 6352 (C:\Users\Asus\Desktop\spring-2024\spring-boot-demo\target\classes started by Asus in C:\Users\Asus\Desktop\spring-2024\spring-boot-demo)
+2025-01-21T22:18:42.992-05:00  INFO 6352 --- [spring-boot-demo] [restartedMain] c.j.s.SpringBootDemoApplication          : The following 1 profile is active: "series"
+2025-01-21T22:18:43.206-05:00  INFO 6352 --- [spring-boot-demo] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-01-21T22:18:43.207-05:00  INFO 6352 --- [spring-boot-demo] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.31]
+2025-01-21T22:18:43.222-05:00  INFO 6352 --- [spring-boot-demo] [restartedMain] o.a.c.c.C.[.[.[/series-stones]           : Initializing Spring embedded WebApplicationContext
+2025-01-21T22:18:43.320-05:00  INFO 6352 --- [spring-boot-demo] [restartedMain] c.j.s.SpringBootDemoApplication          : Started SpringBootDemoApplication in 0.361 seconds (process running for 118.901)
+2025-01-21T22:18:57.570-05:00  INFO 6352 --- [spring-boot-demo] [http-nio-8082-exec-5] o.a.c.c.C.[.[.[/series-stones]           : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-01-21T22:18:57.602-05:00  INFO 6352 --- [spring-boot-demo] [http-nio-8082-exec-5] c.j.s.controllers.StoneController        : getStone - run
+2025-01-21T22:27:51.930-05:00  INFO 19692 --- [spring-boot-demo] [restartedMain] c.j.s.SpringBootDemoApplication          : Starting SpringBootDemoApplication using Java 21.0.5 with PID 19692 (C:\Users\Asus\Desktop\spring-2024\spring-boot-demo\target\classes started by Asus in C:\Users\Asus\Desktop\spring-2024\spring-boot-demo)
+2025-01-21T22:27:51.933-05:00  INFO 19692 --- [spring-boot-demo] [restartedMain] c.j.s.SpringBootDemoApplication          : The following 1 profile is active: "series"
+2025-01-21T22:27:52.919-05:00  INFO 19692 --- [spring-boot-demo] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-01-21T22:27:52.920-05:00  INFO 19692 --- [spring-boot-demo] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.31]
+2025-01-21T22:27:52.960-05:00  INFO 19692 --- [spring-boot-demo] [restartedMain] o.a.c.c.C.[.[.[/series-stones]           : Initializing Spring embedded WebApplicationContext
+2025-01-21T22:27:53.311-05:00  INFO 19692 --- [spring-boot-demo] [restartedMain] c.j.s.SpringBootDemoApplication          : Started SpringBootDemoApplication in 1.767 seconds (process running for 2.361)
+2025-01-21T22:28:12.075-05:00  INFO 19692 --- [spring-boot-demo] [http-nio-8082-exec-5] o.a.c.c.C.[.[.[/series-stones]           : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-01-21T22:28:12.106-05:00  INFO 19692 --- [spring-boot-demo] [http-nio-8082-exec-5] c.j.s.controllers.StoneController        : getStone - run
+2025-01-21T22:28:21.022-05:00  INFO 7144 --- [spring-boot-demo] [restartedMain] c.j.s.SpringBootDemoApplication          : Starting SpringBootDemoApplication using Java 21.0.5 with PID 7144 (C:\Users\Asus\Desktop\spring-2024\spring-boot-demo\target\classes started by Asus in C:\Users\Asus\Desktop\spring-2024\spring-boot-demo)
+2025-01-21T22:28:21.024-05:00  INFO 7144 --- [spring-boot-demo] [restartedMain] c.j.s.SpringBootDemoApplication          : The following 1 profile is active: "series"
+2025-01-21T22:28:21.965-05:00  INFO 7144 --- [spring-boot-demo] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-01-21T22:28:21.965-05:00  INFO 7144 --- [spring-boot-demo] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.31]
+2025-01-21T22:28:22.005-05:00  INFO 7144 --- [spring-boot-demo] [restartedMain] o.a.c.c.C.[.[.[/series-stones]           : Initializing Spring embedded WebApplicationContext
+2025-01-21T22:28:22.355-05:00  INFO 7144 --- [spring-boot-demo] [restartedMain] c.j.s.SpringBootDemoApplication          : Started SpringBootDemoApplication in 1.717 seconds (process running for 2.318)
+2025-01-21T22:28:39.237-05:00  INFO 20668 --- [spring-boot-demo] [restartedMain] c.j.s.SpringBootDemoApplication          : Starting SpringBootDemoApplication using Java 21.0.5 with PID 20668 (C:\Users\Asus\Desktop\spring-2024\spring-boot-demo\target\classes started by Asus in C:\Users\Asus\Desktop\spring-2024\spring-boot-demo)
+2025-01-21T22:28:39.239-05:00  INFO 20668 --- [spring-boot-demo] [restartedMain] c.j.s.SpringBootDemoApplication          : The following 1 profile is active: "series"
+2025-01-21T22:28:40.168-05:00  INFO 20668 --- [spring-boot-demo] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-01-21T22:28:40.168-05:00  INFO 20668 --- [spring-boot-demo] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.31]
+2025-01-21T22:28:40.207-05:00  INFO 20668 --- [spring-boot-demo] [restartedMain] o.a.c.c.C.[.[.[/series-stones]           : Initializing Spring embedded WebApplicationContext
+2025-01-21T22:28:40.561-05:00  INFO 20668 --- [spring-boot-demo] [restartedMain] c.j.s.SpringBootDemoApplication          : Started SpringBootDemoApplication in 1.715 seconds (process running for 2.3)
+2025-01-21T22:29:20.833-05:00  INFO 13316 --- [spring-boot-demo] [restartedMain] c.j.s.SpringBootDemoApplication          : Starting SpringBootDemoApplication using Java 21.0.5 with PID 13316 (C:\Users\Asus\Desktop\spring-2024\spring-boot-demo\target\classes started by Asus in C:\Users\Asus\Desktop\spring-2024\spring-boot-demo)
+2025-01-21T22:29:20.837-05:00  INFO 13316 --- [spring-boot-demo] [restartedMain] c.j.s.SpringBootDemoApplication          : The following 1 profile is active: "series"
+2025-01-21T22:29:21.910-05:00  INFO 13316 --- [spring-boot-demo] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-01-21T22:29:21.910-05:00  INFO 13316 --- [spring-boot-demo] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.31]
+2025-01-21T22:29:21.952-05:00  INFO 13316 --- [spring-boot-demo] [restartedMain] o.a.c.c.C.[.[.[/series-stones]           : Initializing Spring embedded WebApplicationContext
+2025-01-21T22:29:22.329-05:00  INFO 13316 --- [spring-boot-demo] [restartedMain] c.j.s.SpringBootDemoApplication          : Started SpringBootDemoApplication in 1.876 seconds (process running for 2.466)
+2025-01-21T22:29:39.226-05:00  INFO 13316 --- [spring-boot-demo] [http-nio-9090-exec-3] o.a.c.c.C.[.[.[/series-stones]           : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-01-21T22:29:39.256-05:00  INFO 13316 --- [spring-boot-demo] [http-nio-9090-exec-3] c.j.s.controllers.StoneController        : getStone - run
+2025-01-21T22:29:58.911-05:00  INFO 17048 --- [spring-boot-demo] [restartedMain] c.j.s.SpringBootDemoApplication          : Starting SpringBootDemoApplication using Java 21.0.5 with PID 17048 (C:\Users\Asus\Desktop\spring-2024\spring-boot-demo\target\classes started by Asus in C:\Users\Asus\Desktop\spring-2024\spring-boot-demo)
+2025-01-21T22:29:58.913-05:00  INFO 17048 --- [spring-boot-demo] [restartedMain] c.j.s.SpringBootDemoApplication          : The following 1 profile is active: "series"
+2025-01-21T22:30:00.369-05:00  INFO 17048 --- [spring-boot-demo] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-01-21T22:30:00.370-05:00  INFO 17048 --- [spring-boot-demo] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.31]
+2025-01-21T22:30:00.413-05:00  INFO 17048 --- [spring-boot-demo] [restartedMain] o.a.c.c.C.[.[.[/series-stones]           : Initializing Spring embedded WebApplicationContext
+2025-01-21T22:30:01.066-05:00  INFO 17048 --- [spring-boot-demo] [restartedMain] c.j.s.SpringBootDemoApplication          : Started SpringBootDemoApplication in 2.552 seconds (process running for 3.169)
+2025-01-21T22:30:01.752-05:00  INFO 17048 --- [spring-boot-demo] [RMI TCP Connection(2)-172.21.80.1] o.a.c.c.C.[.[.[/series-stones]           : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-01-21T22:39:24.187-05:00  INFO 15980 --- [spring-boot-demo] [restartedMain] c.j.s.SpringBootDemoApplication          : Starting SpringBootDemoApplication using Java 21.0.5 with PID 15980 (C:\Users\Asus\Desktop\spring-2024\spring-boot-demo\target\classes started by Asus in C:\Users\Asus\Desktop\spring-2024\spring-boot-demo)
+2025-01-21T22:39:24.190-05:00  INFO 15980 --- [spring-boot-demo] [restartedMain] c.j.s.SpringBootDemoApplication          : The following 1 profile is active: "series"
+2025-01-21T22:39:25.434-05:00  INFO 15980 --- [spring-boot-demo] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-01-21T22:39:25.434-05:00  INFO 15980 --- [spring-boot-demo] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.31]
+2025-01-21T22:39:25.475-05:00  INFO 15980 --- [spring-boot-demo] [restartedMain] o.a.c.c.C.[.[.[/series-stones]           : Initializing Spring embedded WebApplicationContext
+2025-01-21T22:39:25.661-05:00  INFO 15980 --- [spring-boot-demo] [restartedMain] c.j.s.configs.StoneConfigs               : loading subtitles: http://zzz.org, with profile:series
+2025-01-21T22:39:26.207-05:00  INFO 15980 --- [spring-boot-demo] [restartedMain] c.j.s.SpringBootDemoApplication          : Started SpringBootDemoApplication in 2.427 seconds (process running for 3.037)
+2025-01-21T22:39:26.445-05:00  INFO 15980 --- [spring-boot-demo] [RMI TCP Connection(1)-172.21.80.1] o.a.c.c.C.[.[.[/series-stones]           : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-01-21T22:39:34.811-05:00  INFO 15980 --- [spring-boot-demo] [restartedMain] c.j.s.SpringBootDemoApplication          : Starting SpringBootDemoApplication using Java 21.0.5 with PID 15980 (C:\Users\Asus\Desktop\spring-2024\spring-boot-demo\target\classes started by Asus in C:\Users\Asus\Desktop\spring-2024\spring-boot-demo)
+2025-01-21T22:39:34.811-05:00  INFO 15980 --- [spring-boot-demo] [restartedMain] c.j.s.SpringBootDemoApplication          : The following 1 profile is active: "series"
+2025-01-21T22:39:35.590-05:00  INFO 15980 --- [spring-boot-demo] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-01-21T22:39:35.590-05:00  INFO 15980 --- [spring-boot-demo] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.31]
+2025-01-21T22:39:35.611-05:00  INFO 15980 --- [spring-boot-demo] [restartedMain] o.a.c.c.C.[.[.[/series-stones]           : Initializing Spring embedded WebApplicationContext
+2025-01-21T22:39:35.653-05:00  WARN 15980 --- [spring-boot-demo] [restartedMain] ConfigServletWebServerApplicationContext : Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'stoneController' defined in file [C:\Users\Asus\Desktop\spring-2024\spring-boot-demo\target\classes\com\juandavyc\spring_boot_demo\controllers\StoneController.class]: Unsatisfied dependency expressed through constructor parameter 0: No qualifying bean of type 'com.juandavyc.spring_boot_demo.models.Stone' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@org.springframework.beans.factory.annotation.Qualifier("power")}
+2025-01-21T22:39:35.653-05:00  INFO 15980 --- [spring-boot-demo] [restartedMain] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
+2025-01-21T22:39:35.682-05:00 ERROR 15980 --- [spring-boot-demo] [restartedMain] o.s.b.d.LoggingFailureAnalysisReporter   : 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Parameter 0 of constructor in com.juandavyc.spring_boot_demo.controllers.StoneController required a bean of type 'com.juandavyc.spring_boot_demo.models.Stone' that could not be found.
+
+The injection point has the following annotations:
+	- @org.springframework.beans.factory.annotation.Qualifier("power")
+
+
+Action:
+
+Consider defining a bean of type 'com.juandavyc.spring_boot_demo.models.Stone' in your configuration.
+
+2025-01-21T22:39:38.137-05:00  INFO 15980 --- [spring-boot-demo] [restartedMain] c.j.s.SpringBootDemoApplication          : Starting SpringBootDemoApplication using Java 21.0.5 with PID 15980 (C:\Users\Asus\Desktop\spring-2024\spring-boot-demo\target\classes started by Asus in C:\Users\Asus\Desktop\spring-2024\spring-boot-demo)
+2025-01-21T22:39:38.137-05:00  INFO 15980 --- [spring-boot-demo] [restartedMain] c.j.s.SpringBootDemoApplication          : The following 1 profile is active: "series"
+2025-01-21T22:39:38.488-05:00  INFO 15980 --- [spring-boot-demo] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-01-21T22:39:38.489-05:00  INFO 15980 --- [spring-boot-demo] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.31]
+2025-01-21T22:39:38.506-05:00  INFO 15980 --- [spring-boot-demo] [restartedMain] o.a.c.c.C.[.[.[/series-stones]           : Initializing Spring embedded WebApplicationContext
+2025-01-21T22:39:38.541-05:00  INFO 15980 --- [spring-boot-demo] [restartedMain] c.j.s.configs.StoneConfigs               : loading subtitles: http://zzz.org, with profile:series
+2025-01-21T22:39:38.730-05:00  INFO 15980 --- [spring-boot-demo] [restartedMain] c.j.s.SpringBootDemoApplication          : Started SpringBootDemoApplication in 0.617 seconds (process running for 15.559)
+2025-01-21T22:39:45.536-05:00  INFO 18728 --- [spring-boot-demo] [restartedMain] c.j.s.SpringBootDemoApplication          : Starting SpringBootDemoApplication using Java 21.0.5 with PID 18728 (C:\Users\Asus\Desktop\spring-2024\spring-boot-demo\target\classes started by Asus in C:\Users\Asus\Desktop\spring-2024\spring-boot-demo)
+2025-01-21T22:39:45.540-05:00  INFO 18728 --- [spring-boot-demo] [restartedMain] c.j.s.SpringBootDemoApplication          : The following 1 profile is active: "series"
+2025-01-21T22:39:46.836-05:00  INFO 18728 --- [spring-boot-demo] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-01-21T22:39:46.836-05:00  INFO 18728 --- [spring-boot-demo] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.31]
+2025-01-21T22:39:46.878-05:00  INFO 18728 --- [spring-boot-demo] [restartedMain] o.a.c.c.C.[.[.[/series-stones]           : Initializing Spring embedded WebApplicationContext
+2025-01-21T22:39:47.022-05:00  INFO 18728 --- [spring-boot-demo] [restartedMain] c.j.s.configs.StoneConfigs               : loading subtitles: http://zzz.org, with profile:series
+2025-01-21T22:39:47.572-05:00  INFO 18728 --- [spring-boot-demo] [restartedMain] c.j.s.SpringBootDemoApplication          : Started SpringBootDemoApplication in 2.507 seconds (process running for 3.399)
+2025-01-21T22:39:59.527-05:00  INFO 18924 --- [spring-boot-demo] [restartedMain] c.j.s.SpringBootDemoApplication          : Starting SpringBootDemoApplication using Java 21.0.5 with PID 18924 (C:\Users\Asus\Desktop\spring-2024\spring-boot-demo\target\classes started by Asus in C:\Users\Asus\Desktop\spring-2024\spring-boot-demo)
+2025-01-21T22:39:59.528-05:00  INFO 18924 --- [spring-boot-demo] [restartedMain] c.j.s.SpringBootDemoApplication          : The following 1 profile is active: "series"
+2025-01-21T22:40:00.748-05:00  INFO 18924 --- [spring-boot-demo] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-01-21T22:40:00.749-05:00  INFO 18924 --- [spring-boot-demo] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.31]
+2025-01-21T22:40:00.793-05:00  INFO 18924 --- [spring-boot-demo] [restartedMain] o.a.c.c.C.[.[.[/series-stones]           : Initializing Spring embedded WebApplicationContext
+2025-01-21T22:40:00.943-05:00  INFO 18924 --- [spring-boot-demo] [restartedMain] c.j.s.configs.StoneConfigs               : loading subtitles: http://zzz.org, with profile:series
+2025-01-21T22:40:01.420-05:00  INFO 18924 --- [spring-boot-demo] [restartedMain] c.j.s.SpringBootDemoApplication          : Started SpringBootDemoApplication in 2.266 seconds (process running for 2.845)
+2025-01-21T22:40:01.816-05:00  INFO 18924 --- [spring-boot-demo] [RMI TCP Connection(3)-172.21.80.1] o.a.c.c.C.[.[.[/series-stones]           : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-01-21T22:50:52.492-05:00  INFO 20732 --- [spring-boot-demo] [restartedMain] c.j.s.SpringBootDemoApplication          : Starting SpringBootDemoApplication using Java 21.0.5 with PID 20732 (C:\Users\Asus\Desktop\spring-2024\spring-boot-demo\target\classes started by Asus in C:\Users\Asus\Desktop\spring-2024\spring-boot-demo)
+2025-01-21T22:50:52.496-05:00  INFO 20732 --- [spring-boot-demo] [restartedMain] c.j.s.SpringBootDemoApplication          : The following 1 profile is active: "series"
+2025-01-21T22:50:53.797-05:00  INFO 20732 --- [spring-boot-demo] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-01-21T22:50:53.797-05:00  INFO 20732 --- [spring-boot-demo] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.31]
+2025-01-21T22:50:53.837-05:00  INFO 20732 --- [spring-boot-demo] [restartedMain] o.a.c.c.C.[.[.[/series-stones]           : Initializing Spring embedded WebApplicationContext
+2025-01-21T22:50:53.975-05:00  INFO 20732 --- [spring-boot-demo] [restartedMain] c.j.s.configs.StoneSeriesConfigs         : loading subtitles: http://zzz.org, with profile:series
+2025-01-21T22:50:54.442-05:00  INFO 20732 --- [spring-boot-demo] [restartedMain] c.j.s.SpringBootDemoApplication          : Started SpringBootDemoApplication in 2.428 seconds (process running for 3.002)
+2025-01-21T22:50:54.686-05:00  INFO 20732 --- [spring-boot-demo] [RMI TCP Connection(1)-172.21.80.1] o.a.c.c.C.[.[.[/series-stones]           : Initializing Spring DispatcherServlet 'dispatcherServlet'
